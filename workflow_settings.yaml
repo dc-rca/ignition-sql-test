@@ -1,4 +1,4 @@
 defaultProject: dipesh-dev
-defaultDataset: dataform
+defaultDataset: Glossary
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.26
